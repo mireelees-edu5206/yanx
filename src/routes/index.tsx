@@ -34,11 +34,13 @@ Eduardoooo`;
 const CANCIONES = [
   {
     id: "ella",
+    titulo: "Arcoíris - Ed Maverick",
     subtitulo: "Para Eduardo",
     src: "/music/Ed Maverick - arcoíris (Lyric Video).mp3",
   },
   {
     id: "yo",
+    titulo: "Brillas - León Larregui",
     subtitulo: "Para mi niña hermosa",
     src: "/music/León Larregui - Brillas (Letra).mp3",
   },
