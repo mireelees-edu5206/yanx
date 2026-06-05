@@ -26,8 +26,8 @@ Asi que bueno, tambien te quiero decir que contigo encontre todo lo que buscaba,
 Te quiero agradecer por estos 2 años que llevas a mi lado, han sido dificiles, lo se pero no hay que dejar morir esto y no hay que cometer los mismos errores, quiero que esto sea para toda la vida, quiero compartir nuestras vidas, quiero ser tuyo para siempre, quiero que seas mia para siempre, perdon por todo lo malo que hice, perdon por todo de verdad, no te quieo perder y es por eso que estoy en un proceso de mejora, para ti, quiero que tu des todo de ti, absolutamente todo de ti, demostremos todo con acciones y no con palabras, si? de verdad eres muy importante para mi, te amo y lo seguire haciendo eternamente mi niña, te amo, te amo, te amo, te amooooooooo demasiadoooooooooooooooo amor mio
 
 
-Con todo mi cariño,
-Tu novio`;
+Con todo mi cariño, amor
+Eduardoooo`;
 
 // 🎵 Pon tus archivos .mp3 en la carpeta `public/music/` con estos nombres
 // (o cambia las rutas/títulos aquí):
